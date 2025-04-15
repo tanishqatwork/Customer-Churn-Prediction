@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-This repository contains a solution for the [StrataScratch Customer Churn Prediction Project](https://platform.stratascratch.com/data-projects/customer-churn-prediction). The goal of this project is to analyze customer data and build a predictive model that forecasts customer churn using machine learning techniques.
+The goal of this project is to analyze customer data and build a predictive model that forecasts customer churn using machine learning techniques.
 
 ## Project Overview
 
